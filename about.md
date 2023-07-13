@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>My passion for applied mathematics led me to do research on safety-critical systems at Boston University, where I am working on my Ph.D.</p>
+<p>My passion for applied mathematics led me to do research on safety-critical systems at Boston University, where I am working on my Ph.D .</p>
 
 
 <h2>Skills</h2>
